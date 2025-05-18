@@ -41,5 +41,4 @@ Control your lights with a wave of your hand! This project uses **OpenCV** for r
 
 ---
 
-## 📁 Repository Structure
 
